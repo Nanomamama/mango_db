@@ -1,0 +1,59 @@
+/* Styling the hero section */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400&display=swap');
+.hero {
+    height: 100vh;
+    background-image: url('./image/9cad673ebacd31647ce3b224fe7b8bdb.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* A dark overlay with 50% opacity */
+    background-blend-mode: darken;
+    /* Blends the overlay with the image */
+  }
+  
+  .hero-contact{
+    margin-top: 10rem;
+  }
+  
+  .hero h1 {
+    color: #fff;
+    font-size: 5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero p {
+    color: #fff;
+    font-size: 1.5rem;
+    
+  }
+  
+  .button-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .button-2 .b1 a,
+  .button-2 .b2 a {
+    margin: 3px;
+    font-weight: 200;
+    background-color: #fff;
+    color: #0c0c0c;
+  }
+  
+  .button-2 .b2 a {
+    border-radius: 20px;
+    padding: 0.5rem 1.5rem;
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+  }
+  
+  .button-2 .b2 a:hover {
+    background-color: #fff;
+    color: #0c0c0c;
+  }
