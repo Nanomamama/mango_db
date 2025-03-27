@@ -114,7 +114,7 @@
       <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="#">HOME</a>
+            <a class="nav-link" href="#">หน้าแรก</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#about-us">สายพันธุ์ทั้งหมด</a>
