@@ -1,5 +1,6 @@
 /* Styling the hero section */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400&display=swap');
+
+
 .hero {
     height: 100vh;
     background-image: url('./image/9cad673ebacd31647ce3b224fe7b8bdb.jpg');

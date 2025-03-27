@@ -12,6 +12,7 @@
     <?php include 'hero.php'; ?>
     <?php include 'aboout.php'; ?>
     <?php include 'activity.php'; ?>
+
     
 </body>
 </html>

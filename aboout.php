@@ -2,7 +2,7 @@
 <section id="about-us" class="container my-5">
     <div class="aboutcontainer">
         <h1 class="text-center mb-4">
-            รายละเอียด  มีดังนี้ 123456789
+            รายละเอียด
             <br />เศรษฐกิจพอเพียงสวนลุงเผือก
         </h1>
         <p class="text-center">
